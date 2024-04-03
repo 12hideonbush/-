@@ -1,0 +1,1391 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市交警支队",
+                "address": "枫林一路2号(溁湾镇地铁站7号口步行350米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.459037,
+                    29.553701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队雨花大队",
+                "address": "圭塘路209号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.028582,
+                    28.13922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队",
+                "address": "湘江南路黑石铺大桥下南约5公里大托铺兴隆村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.940861,
+                    28.085737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省公安厅交通警察总队",
+                "address": "湘龙街道申湘路与时中路交汇处"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.063217,
+                    28.238108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交通警察大队",
+                "address": "星沙街道特立路2号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.074465,
+                    28.254269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队岳麓大队",
+                "address": "平川路305号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.099688,
+                    25.08418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队高新区大队",
+                "address": "明湖路旁边"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.821938,
+                    28.237061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局望城分局交通警察大队",
+                "address": "雷锋大道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.903042,
+                    28.234549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岳麓区交警大队处罚办",
+                "address": "平川路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.649337,
+                    42.719833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队岳麓大队七中队",
+                "address": "洋湖路洋湖湿地公园"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.52137,
+                    28.029086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市政务服务中心公安局交警支队车管分中心",
+                "address": "潇湘中路长沙市公安局交通警察支队"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.126318,
+                    28.223618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市公安局交通警察大队",
+                "address": "浏东公路东100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.683179,
+                    28.247845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队车辆管理所城南综合分所",
+                "address": "中意一路58号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.006261,
+                    28.121236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市公安局交通警察大队",
+                "address": "楚沩西路41号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.54002,
+                    28.255149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队高新区大队处罚教育服务中心",
+                "address": "明湖路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.285332,
+                    41.331158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队环城公路管理大队",
+                "address": "枫林三路黄花塘收费站旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.85518,
+                    28.199611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队",
+                "address": "合平路与泉坝路交叉口东北角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.094468,
+                    28.196831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨花交警大队处罚中心",
+                "address": "圭塘路225号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.029964,
+                    28.138601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岳麓交警",
+                "address": "平川路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.649337,
+                    42.719833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "开福区交警大队处罚办",
+                "address": "中青路137号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.010421,
+                    28.302159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省高速公路交通警察局长沙支队白箬大队",
+                "address": "岳麓西大道与金桥互通交叉口东北140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.842805,
+                    28.243354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省高速公路交通警察局长沙支队星沙大队",
+                "address": "西霞路长永佳苑旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.064863,
+                    28.231648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省高速公路交通警察局长沙支队水渡河大队",
+                "address": "星沙街道滨湖路1号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.11157,
+                    28.211908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岳麓区八中队",
+                "address": "潇湘南大道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.927536,
+                    28.096236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市公安局车辆管理所",
+                "address": "金洲大道蓝色港湾对面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.585088,
+                    28.27415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队",
+                "address": "中青路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.506658,
+                    31.168889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岳麓区交警五中队",
+                "address": "西二环杜鹃路交汇处西南角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.366786,
+                    30.932462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队九中队",
+                "address": "三一大道湖南会展中心"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.063787,
+                    28.261349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天心交警",
+                "address": "湘江南路天心区交通警察大队"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.968889,
+                    28.139041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "芙蓉区交警大队处罚办",
+                "address": "泉坝路与合平路交叉路口东侧"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.094468,
+                    28.196831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队车辆管理所城北分所",
+                "address": "长霞开发区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.976973,
+                    28.279556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市交警队车管中心",
+                "address": "玉潭镇玉煤大道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.507868,
+                    28.255848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨花交警五中队",
+                "address": "湘府中路15号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.010058,
+                    28.109948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队六中队",
+                "address": "芙蓉北路与青竹湖路交叉口西南60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.945169,
+                    28.326366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省浏阳市工业园交警五中队",
+                "address": "北盛镇环园村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.412671,
+                    28.236309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队雨花大队八中队",
+                "address": "香樟路雨花区政府内"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.035087,
+                    28.137564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市公安局交通警察大队行政中心中队",
+                "address": "金洲大道与花明北路交叉口西240米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.655802,
+                    28.266514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天心交警大队暮云南托片区中队",
+                "address": "南湖大道碧桂园公园壹号东侧100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.008904,
+                    38.514582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队岳麓大队一中队",
+                "address": "望岳街道岳麓大道长沙市政府"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.930437,
+                    28.225508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队岳麓大队三中队",
+                "address": "财富硅谷东1门东南70米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.957577,
+                    28.212186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县交警大队长龙处罚分点",
+                "address": "长龙街道开元东路1320号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.17426,
+                    28.250777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队岳麓大队二中队",
+                "address": "金星中路桐梓坡路口东南角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.212046,
+                    30.423391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交警支队车管所驻长沙市政务中心窗口",
+                "address": "金星北路一段20号2楼"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.93129,
+                    28.235067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市交警大队处罚教育中心",
+                "address": "浏东公路附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.485015,
+                    22.758258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "交警星沙中队",
+                "address": "特立路1号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.074915,
+                    28.25597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "开福区交通管理局新港交管所",
+                "address": "新港镇南城坡加油站对面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.947101,
+                    28.319351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队九中队",
+                "address": "芙蓉南路辅路与湘府西路交叉口西北40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.987279,
+                    28.112065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队四中队",
+                "address": "新开铺路665号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.961988,
+                    28.114291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队岳麓大队六中队",
+                "address": "枫林路2号通程商业广场"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.952631,
+                    28.195242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市交警大队车管所",
+                "address": "金洲大道恒升驾校公安局车管所"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.584707,
+                    28.273936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市公安局交通警察大队三中队",
+                "address": "历联河路与紫徽西路交叉口北80米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.598038,
+                    28.23913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局公共交通治安管理分局直属一大队",
+                "address": "双杨路和高家坡路交叉路口公交停保场内"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.172234,
+                    31.747573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市沿溪镇交警二中队",
+                "address": "沿溪大道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.819758,
+                    28.322408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队五中队",
+                "address": "四方坪街道三一大道车站北路口(四方坪地铁站1号口旁)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.007554,
+                    28.230546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交通警察大队黄兴中队",
+                "address": "会展星街内"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.086894,
+                    28.140863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队122中队",
+                "address": "合平路长沙市公安局芙蓉分局机关二院"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.095205,
+                    28.197483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交通警察大队新安中队",
+                "address": "湖南警察学院北门东130米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.129469,
+                    28.217918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交通警察大队唐田中队",
+                "address": "安沙镇107国道梅塘社区洗马塘组"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.082041,
+                    28.328627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队雨花大队一中队",
+                "address": "城南中路中国水利水电第八工程局有限公司"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.996726,
+                    28.180983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省高速公路交通警察局长沙支队",
+                "address": "雨花大道出口与雨花大道交叉口东60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.073619,
+                    28.163462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队八中队",
+                "address": "芙蓉北路顺天·北国风光(马厂地铁站2号口步行70米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.988706,
+                    28.251249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队二中队",
+                "address": "五一大道549联合商厦F1层"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.983461,
+                    28.192627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队一中队",
+                "address": "韶山北路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.976867,
+                    26.584425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队雨花大队六中队",
+                "address": "劳动东路与万家丽中路交叉口东80米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.017173,
+                    28.155997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙铁路交通警察大队",
+                "address": "湘凤路112号(长沙火车南站地铁站1号口步行190米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.062986,
+                    28.148991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "交警十中队",
+                "address": "南园路与西二环出口交叉口西北20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.915806,
+                    28.203018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队十中队",
+                "address": "万家丽中路晚报大道路口东北角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.029717,
+                    28.163165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交警大队㮾梨中队",
+                "address": "黄兴大道南段高峰社区公共服务中心斜对面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.134877,
+                    28.181263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队铁骑中队",
+                "address": "南二环"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.290352,
+                    31.813937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队十一中队",
+                "address": "芙蓉南路万家丽路口南"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.99537,
+                    28.054946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队七中队",
+                "address": "黄土岭路中国农业银行(长沙芙蓉中路支行)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.128784,
+                    40.238985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "城北检测站交警大厅",
+                "address": "芙蓉北路长沙市公安局交警支队车管所城北分所"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.646993,
+                    28.17872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交通警察大队湘龙中队",
+                "address": "石子铺路金鹰机电市场2区八栋"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.073139,
+                    28.274406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队二中队",
+                "address": "芙蓉路与营盘路交汇处东南角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.953928,
+                    28.749213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨花交警九中队",
+                "address": "长沙大道693号(长沙大道地铁站4号口步行460米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.045081,
+                    28.168834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队雨花大队铁骑中队",
+                "address": "劳动中路与车站南路交叉口东北50米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.011951,
+                    28.156384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市公安局交通警察大队第九中队",
+                "address": "S209(宁横公路)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.805214,
+                    35.813342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市交警大队大瑶处罚点",
+                "address": "琅珊路与枫林路交叉口东北60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.719493,
+                    27.993463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队十中队",
+                "address": "万家丽路福元路口恒大雅苑售楼部门口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.357183,
+                    31.293574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队开福大队122中队",
+                "address": "中青路与高岭路交叉口西北40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.011388,
+                    28.301807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "望城区公安局交警大队的交通违法处罚中心",
+                "address": "望府路198号雷锋政务超市1层大厅左边长沙银行旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.829451,
+                    28.351478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省高速公路交通警察局长沙支队道林大队",
+                "address": "市X081"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.364248,
+                    31.130384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨花交警七中队",
+                "address": "长沙大道辅路与万家丽中路交叉口东20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.020139,
+                    28.16984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局公共交通治安管理分局直属四大队",
+                "address": "登隆街11号(黄兴广场地铁站1号口步行270米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.976379,
+                    28.189994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队七中队",
+                "address": "八一路与车站中路交叉口西南角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.011191,
+                    28.197234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县公安局交通警察大队黄花中队",
+                "address": "人民东路二段辅路与小康南路交叉口往南约130米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.188393,
+                    28.201906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省高速公路交通警察局",
+                "address": "申湘路湖南省公安厅交通警察总队"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.062719,
+                    28.228205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队十四中队",
+                "address": "科教路与对山路交叉口西20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.087661,
+                    28.186762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省公安厅机场公安局交通警察支队黄花机场大队",
+                "address": "人民路与机场大道辅路交叉口东南260米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.797303,
+                    30.677336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队雨花大队十一中队",
+                "address": "万家丽路与黄谷路西南角"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.035953,
+                    28.082066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "望城区公安局交警三中队",
+                "address": "湖外路与丁字联络线交叉口南240米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.900356,
+                    28.369921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局望城分局交通警察大队六中队",
+                "address": "马桥河路一段896号(同心园社区综治中心旁)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.847301,
+                    28.32098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队十中队",
+                "address": "鑫悦汇(中信广场地铁站1号口旁)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.989288,
+                    28.074723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队高新区大队雷锋中队",
+                "address": "枫林三路1626号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.849795,
+                    28.200534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队高新大队麓谷中队",
+                "address": "岳麓大道桥下麓谷大道交汇处"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.890911,
+                    28.213572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队芙蓉大队六中队",
+                "address": "人民中路与港岛路交叉口西南40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.006967,
+                    28.185089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市公安局交通警察大队三中队",
+                "address": "大瑶镇瑶浏路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.72127,
+                    27.971531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安局交通警察支队天心大队一中队",
+                "address": "南门口1662主题购物中心(南门口地铁站1号口旁)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.975514,
+                    28.18378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南高速交警长沙支队望城大队",
+                "address": "望城收费站出口收费站办公楼后院内"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.471809,
+                    38.00605
+                ]
+            }
+        }
+    ]
+}

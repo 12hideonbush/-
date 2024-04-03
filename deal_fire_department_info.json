@@ -1,0 +1,2245 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省消防救援总队训练与战勤保障支队",
+                "address": "金洲大道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.556661,
+                    28.273499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援支队",
+                "address": "四方坪学堂园路1号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.005199,
+                    28.233961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市天心区消防救援大队",
+                "address": "书香路659号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.974095,
+                    28.114304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市岳麓区消防救援大队",
+                "address": "岳华路740号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.946456,
+                    28.240211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙消防特勤基地",
+                "address": "湘江北路与安顺路交汇处西南"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.928961,
+                    28.329683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援支队湘江新区洋湖政府专职中心站",
+                "address": "洋湖路与清家滩路交叉口东南120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.91865,
+                    28.116392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨花区消防救援大队",
+                "address": "桃花塅路金品苑对面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.025509,
+                    28.092252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市望城区消防救援大队月亮岛消防救援站",
+                "address": "银晟路119号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.944629,
+                    28.277203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "铜官特勤消防站",
+                "address": "铜官镇附近150米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.805916,
+                    28.472065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援支队轨道交通大队",
+                "address": "雨花大道辅路与曲塘路交叉口北60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.069407,
+                    28.152651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省消防救援总队",
+                "address": "长沙市特殊教育学校南门西100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.909506,
+                    28.206098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队湘江新区梅溪湖中队",
+                "address": "天顶街道麓云路口梅溪湖路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.883325,
+                    28.190624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市消防救援大队",
+                "address": "春城北路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.548633,
+                    28.28384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区鹅秀消防救援站",
+                "address": "芙蓉北路辅路与天鹅大道交叉口西北220米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.965193,
+                    28.300888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市芙蓉区张公岭消防救援站",
+                "address": "远大二路与东湖路交叉口西北80米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.077326,
+                    28.201168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市雨花区红星消防救援站",
+                "address": "时代阳光大道与中意一路交叉口西北320米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.013959,
+                    28.099539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县星沙消防救援站",
+                "address": "星沙大道与棠坡路交叉口东南140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.086139,
+                    28.247856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市消防救援大队",
+                "address": "浏阳大道农副产品旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.636639,
+                    28.162085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙高新区东方红消防救援站",
+                "address": "岳麓区高新区先导控股安支塘加油站旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.943281,
+                    28.252947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市芙蓉区五里牌消防救援站",
+                "address": "远大一路与车站北路交叉口东北60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.011191,
+                    28.197234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区伍家岭消防救援站",
+                "address": "东风路立交桥建湘新村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.229718,
+                    35.612548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县黄兴消防救援站",
+                "address": "黄江路辅路与打卦岭路交叉口东南200米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.139108,
+                    28.132074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雷锋消防救援站",
+                "address": "雷锋街道雷锋镇雷锋镇机电大市场旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.686181,
+                    29.068874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安沙消防救援站",
+                "address": "纬三路鑫瑞祥家居建材生活广场西侧约200米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.069414,
+                    28.312561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区丝茅冲消防救援站",
+                "address": "浏阳河路(四方坪地铁站1号口步行480米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.007554,
+                    28.230546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "麓山门消防救援站",
+                "address": "麓山路345号(湖南大学地铁站4号口步行210米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907329,
+                    31.975711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙经济技术开发区消防救援大队",
+                "address": "泉塘街道漓湘东路189号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.136188,
+                    28.227694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天心区新路消防救援站",
+                "address": "新岭路60号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.892344,
+                    24.571685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市岳麓区岳麓街道五星消防中队",
+                "address": "岳麓街道(阳光地铁站9号口步行320米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.937036,
+                    28.141393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援战勤保障中心",
+                "address": "雷锋大道与普瑞大道交叉口南100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.901357,
+                    28.23246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区星月消防救援站",
+                "address": "青霞路与青竹湖路交叉口北140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.959807,
+                    28.338801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙消防救援支队金阳消防救援站",
+                "address": "洞阳镇鲤塘冲"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37919,
+                    28.230407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市岳麓区含浦消防救援站",
+                "address": "茯苓路30号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.888,
+                    28.114522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队芙蓉区大队湘湖中队",
+                "address": "渔洲巷1号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.011627,
+                    28.213649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县产业园消防救援站",
+                "address": "开元东路与长界北路交汇处往南一百米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.179988,
+                    28.250955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市蓝月谷消防救援站",
+                "address": "谐园路东50米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.598809,
+                    28.292339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "虹桥中心消防救援站",
+                "address": "栖才路与文轩路交叉口西北140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.865658,
+                    28.207344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市芙蓉区五一广场消防救援站",
+                "address": "南阳街36号(五一广场地铁站6D口步行340米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.97734,
+                    28.1965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市金洲中心消防救援站",
+                "address": "金洲南路001号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.414282,
+                    23.071764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县鹏盛消防救援站",
+                "address": "大元东路与盛祥路交叉口东100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.190838,
+                    28.195546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "桂芳消防救援站",
+                "address": "红家坡路南桂芳学校东北50米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.829858,
+                    28.290404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "同升消防中队",
+                "address": "洞井街道洞井铺环保大道金桃派出所对面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.029206,
+                    28.072959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "榔梨消防救援站",
+                "address": "㮾梨街道保家村东十一路南段与秋江大道交叉口北120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1524,
+                    28.167124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大托铺消防救援站",
+                "address": "新开铺路1495号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.980306,
+                    28.078768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市雨花区同升消防救援站",
+                "address": "支路八与振华路交叉口北180米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.028766,
+                    28.071469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队开福区大队金霞中队",
+                "address": "芙蓉北路街道芙蓉北路凤亭路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.979439,
+                    28.255178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援支队综合保障中心",
+                "address": "普瑞大道与雷锋大道交叉口东南100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.876086,
+                    28.293678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市望城区望城消防救援站",
+                "address": "旺旺中路与望城大道交叉口西120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.827276,
+                    28.341866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天心区暮云中心消防救援站",
+                "address": "南湖大道与芙蓉南路辅路交叉口东500米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.996953,
+                    28.025659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市雨花区高桥消防救援站",
+                "address": "圭塘河西路与浏阳河大道交叉口西"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.033084,
+                    28.170472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队金盆岭中队",
+                "address": "赤岭路与天心大道交叉口东200米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.380653,
+                    25.135342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市芙蓉区东岸消防救援站",
+                "address": "亚大路与张冲路交叉口南200米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.064278,
+                    28.207957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市集里公安消防中队",
+                "address": "黄泥岭路28号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.605377,
+                    28.153264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市望城区书堂山政府专职消防救援站",
+                "address": "芙蓉北大道168号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.914057,
+                    28.393252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市岳麓区石岭塘消防救援站",
+                "address": "观沙岭街道岳华路740号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.946456,
+                    28.240211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市雨花区消防救援大队",
+                "address": "桃花塅路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.024128,
+                    28.093624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市芙蓉区消防救援大队",
+                "address": "远大二路与东湖路交叉路口"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.077326,
+                    28.201168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "森林消防局机动支队驻湘大队",
+                "address": "湘府东路一段1001号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.044199,
+                    28.11705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "麓谷消防救援站",
+                "address": "馨宇锦园小区东门旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.904629,
+                    28.215467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大瑶消防救援站",
+                "address": "310省道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.768964,
+                    35.569363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区潮宗街政府专职消防救援站",
+                "address": "永清巷与潮宗古街交叉口东南60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.974169,
+                    28.203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙经济技术开发区龙华中心消防救援站",
+                "address": "㮾梨街道红树坡路东方美地南侧约30米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.128754,
+                    28.198295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市岳麓区谷山消防救援中心站",
+                "address": "青山路7号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.687625,
+                    26.554497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队天心区大队劳动路中队",
+                "address": "劳动西路与黄兴南路交叉口东约120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.975306,
+                    28.178652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县会展消防救援站",
+                "address": "会展路与香木路交叉口东北80米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.084538,
+                    36.653869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市天心区罗家坡消防救援站",
+                "address": "书香路与湘府西路交叉口北160米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.974301,
+                    28.111953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区消防救援大队",
+                "address": "芙蓉北路455号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.134279,
+                    31.563624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "中国人民武装警察部队望城区消防中队",
+                "address": "旺旺中路138号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.827524,
+                    28.341603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援支队湘江新区坪塘政府专职站",
+                "address": "潭州大道171号(大王山地铁站1号口步行470米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.914904,
+                    28.085532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙经开区龙华中心消防站",
+                "address": "㮾梨街道红树坡路东方美地对面"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.118373,
+                    28.21912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市天心区金盆岭消防救援站",
+                "address": "长沙市公安消防支队金盆岭中队西北门旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.975553,
+                    28.150008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "潮宗街消防站",
+                "address": "永清巷与潮宗古街交叉口东南60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.974169,
+                    28.203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防支队开福区大队",
+                "address": "凤亭路与金马路交叉口西180米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.983483,
+                    28.258661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "灰汤消防救援站",
+                "address": "小康路177号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.376762,
+                    28.026531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省消防救援总队水域救援(长沙)大队",
+                "address": "安顺路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.949362,
+                    37.095831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防救援支队开福区大队伍家岭中队",
+                "address": "东风路立交桥建湘新村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.229718,
+                    35.612548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区金霞消防教援站",
+                "address": "长沙消防西北门旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.98183,
+                    28.258148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "芙蓉区长榔消防站",
+                "address": "东四路与远大二路交叉口东180米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.104853,
+                    28.219326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙经济技术开发区泉塘消防救援站",
+                "address": "漓湘东路与东十路交叉口西140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.210501,
+                    30.561457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县北山镇专职消防队",
+                "address": "北山大道与蒿塘南路交叉口南40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.017696,
+                    28.382334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队望城区大队望城中队",
+                "address": "旺旺中路138号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.827524,
+                    28.341603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天心区暮云中心特勤消防站",
+                "address": "南湖路(山水印象)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.671575,
+                    29.521595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市开福区金霞消防救援站",
+                "address": "凤亭路与金马路交叉口西180米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.983483,
+                    28.258661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市天心区公安消防大队",
+                "address": "书香路659号(明德中学新校区往南走300米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.970585,
+                    28.118567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湘湖政府专职消防救援站",
+                "address": "湘湖路与渔洲巷交叉口东北40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.011166,
+                    28.211842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队芙蓉区大队五里牌中队",
+                "address": "远大一路15号新天宾馆旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.012128,
+                    28.197886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙消防定王台消防中队",
+                "address": "解放西路与建湘路交叉口西北20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.986575,
+                    28.190657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县消防大队黄兴中队",
+                "address": "黄兴镇打卦岭村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.136222,
+                    28.12499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市沙市政府专职消防救援站",
+                "address": "赤马湖大道508号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.435043,
+                    28.352017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队麓谷中队",
+                "address": "高新区应急救援大队东北门旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.904245,
+                    28.215142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高桥大市场消防队",
+                "address": "高桥街道高桥大市场水暖建材城C座"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002212,
+                    40.90435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市岳麓区森林消防大队",
+                "address": "杜鹃路826号附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.485015,
+                    22.758258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市天心区劳动局消防救援站",
+                "address": "劳动西路与黄兴南路交叉口东南100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.975306,
+                    28.178652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市消防特勤大队",
+                "address": "安顺路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.949362,
+                    37.095831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙高新区消防联勤站",
+                "address": "麓枫路银河科技园(麓天路)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.900936,
+                    28.212284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "望城区靖港镇专职消防队",
+                "address": "兴农堤靖港古镇"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.78744,
+                    28.456787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市关口政府专职消防救援站",
+                "address": "关口街道"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.350205,
+                    30.920426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "定王台政府专职消防救援站",
+                "address": "建湘路与解放中路交叉口西北20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.986575,
+                    28.190657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队经开区大队经开中队",
+                "address": "东十路与漓湘东路的交汇处"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.137581,
+                    28.227346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南消防长沙支队",
+                "address": "银晟路与王家湾路交叉口东北120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.92609,
+                    28.292362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "湖南省消防救援总队山岳救援大队",
+                "address": "岳华路长沙市公安消防支队岳麓区大队石岭塘中队"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.005208,
+                    28.23355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县江背镇消防救援站",
+                "address": "白石西路西南侧"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.916025,
+                    27.936061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "榔梨消防队",
+                "address": "㮾梨街道保家村东十一路南段与秋江大道交叉口北120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1524,
+                    28.167124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "消防特勤",
+                "address": "湘江北路与湘捞路交叉口西100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.980327,
+                    28.24961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县金井镇专职消防救援站",
+                "address": "S206(金平路)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.707671,
+                    36.061811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "桂花坪街道金桂社区消防服务站",
+                "address": "石碑路与豹塘路交叉口北40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.995887,
+                    28.102296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "社区义务消防队",
+                "address": "丰盈西里19号附近(黄兴广场地铁站2号口步行420米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.985228,
+                    28.194413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "裕南街街道东电社区消防服务站",
+                "address": "东瓜山二条巷电业局宿舍"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.974064,
+                    28.171222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "高新区消防安全联防站",
+                "address": "麓天路21号附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.895046,
+                    28.220831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黄花镇专职消防队",
+                "address": "黄花村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.110706,
+                    38.411752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县北山镇政府专职消防队",
+                "address": "蒿塘南路东侧"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.014136,
+                    28.390923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队天心区大队金盆岭中队",
+                "address": "赤岭路与书院南路交叉口东240米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.977896,
+                    28.150412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "文源街道金汇社区消防服务站",
+                "address": "新开铺街道芙蓉南路368号金秋小区7栋3楼附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.98449,
+                    28.13339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "公安消防大队",
+                "address": "茶子山中路71号附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.947823,
+                    28.241213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "裕南街街道长坡社区消防服务站",
+                "address": "水利水电机械施工公司东北门旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.978317,
+                    28.164313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "云塘社区安监消防应急服务站",
+                "address": "月塘路龙湾国际社区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.671104,
+                    31.028086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市经开区应急消防大队",
+                "address": "星沙经济技术开发区漓湘东路189号爱铍特创业园中外运长航办公楼"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.136188,
+                    28.227694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县春华镇政府专职消防队",
+                "address": "春华镇武塘村春华派出所附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.263317,
+                    28.279207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县青山铺镇政府专职消防队",
+                "address": "深远路长沙县公安局青山铺派出所"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.343063,
+                    27.332031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县消防救援",
+                "address": "白沙路与023县道交叉口东南200米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.290546,
+                    28.591634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市公安消防支队芙蓉区大队定王台中队",
+                "address": "解放西路8号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.316419,
+                    43.922995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县干杉消防救援站",
+                "address": "黄金大道与秋江大道交叉口西北400米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.142263,
+                    28.168148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "跳马消防救援站",
+                "address": "石燕湖路17号"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.069503,
+                    28.057865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "雨敞坪镇消防站",
+                "address": "雨敞坪路78号附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.669112,
+                    28.164542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黑石铺街道披塘村消防宣传服务站",
+                "address": "披塘路222号披塘村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.975885,
+                    28.085068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "桂花坪街道桂庄社区消防服务站",
+                "address": "中豹塘路与豹塘路交叉口西南40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.995887,
+                    28.102296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青园街道友谊社区消防服务站",
+                "address": "刘家冲北路100号附近"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.990903,
+                    28.118267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "北山镇消防救援站",
+                "address": "蒿塘南路与金山大道交叉路口往北约50米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.995343,
+                    28.391975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "安沙镇专职消防救援队",
+                "address": "安沙镇人民政府龙华岭村田边屋组C0313G"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.090086,
+                    28.343343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市森林消防总队七宝山大队",
+                "address": "003县道西北侧"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.161459,
+                    35.489236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县开慧镇专职消防救援队",
+                "address": "X021白沙镇卫生院西北侧约50米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.403178,
+                    24.644343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "熙台岭社区应急安监消防服务站",
+                "address": "白沙街与里仁坡巷交叉口南40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.979878,
+                    28.180799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新开铺街道桥头社区消防服务站",
+                "address": "新开铺路天翔新新家园"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.970815,
+                    28.139372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "岳麓山消防队",
+                "address": "麓山路344号(湖南大学地铁站4号口步行250米)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.907329,
+                    31.975711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "城南路街道白沙井社区消防服务站",
+                "address": "义茶亭巷与回龙山巷交叉口东北20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.984565,
+                    28.180799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙县江背镇政府专职消防队",
+                "address": "江背派出所西北门旁"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.734464,
+                    34.434079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市淳口镇专职消防队",
+                "address": "淳口镇卫生院东北侧100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.502685,
+                    28.290107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "赤岭路街道广厦新村社区消防服务站",
+                "address": "金岭路广厦新村"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.970151,
+                    28.147297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙高新区治安消防巡防站",
+                "address": "麓天路2-2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.907225,
+                    28.222825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "黑石铺街道九峰村消防服务站",
+                "address": "书香路九峰安置小区"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.973347,
+                    28.09705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "城南路街道熙台岭社区应急安监消防服务站",
+                "address": "熙台岭巷与里仁坡巷交叉口南20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.98011,
+                    28.1812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "官渡镇专职消防队",
+                "address": "官张路与育才路交叉口西北140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.403842,
+                    44.430836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "永和镇消防应急救援站",
+                "address": "磷矿路与沿宝路交叉口西200米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.855693,
+                    28.289124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市森林消防总队官渡大队",
+                "address": "官张路与瑶湾街交叉口东南40米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.885234,
+                    28.349177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "天鸿社区消防服务站",
+                "address": "南二环入口与南二环辅路交叉口南100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.247423,
+                    40.171049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "青园街道井湾子社区消防服务站",
+                "address": "G107(中意一路)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.84208,
+                    22.794072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "浏阳市森林消防总队大围山大队",
+                "address": "东白路与005乡道交叉口西460米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.09243,
+                    28.469892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金盆岭街道夏家冲社区消防服务站",
+                "address": "天剑路与向东南路交叉口南160米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.980792,
+                    28.171068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "新开铺街道木莲社区消防服务站",
+                "address": "木莲西路与汇丰路交叉口南120米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.998613,
+                    28.126979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "步步高梅溪新天地消防控制中心",
+                "address": "东方红路657号步步高梅溪新天地购物中心G层4号门出去对面左侧20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.86116,
+                    28.198201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "微信消防站",
+                "address": "含浦大道与西二环交叉口步步高生活广场F1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.928144,
+                    28.158732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "大托铺街道兴隆村消防服务站",
+                "address": "桂升路"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.932744,
+                    28.067963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "城南路街道天心阁社区应急安监消防服务站",
+                "address": "高正街与县正街交叉口南60米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.981058,
+                    28.185684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "赤岭路街道南大桥社区-消防服务站",
+                "address": "湖开路静谧园"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.979443,
+                    28.14587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "金盆岭街道黄土岭社区消防服务站",
+                "address": "黄土岭路与七里庙路交叉口西140米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.982442,
+                    28.162371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "白沙井社区消防安监应急服务站",
+                "address": "义茶亭巷与回龙山巷交叉口东北20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.984565,
+                    28.180799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "坡子街街道楚湘社区-消防服务站",
+                "address": "劳动西路与书院路交叉口西100米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.977788,
+                    28.174796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "宁乡市南太湖消防站(建设中)",
+                "address": "滨江大道与滨江路交叉口南80米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.841928,
+                    23.100811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "长沙市武广地铁消防站(建设中)",
+                "address": "长沙高铁南站东北侧"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.068242,
+                    28.146933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "南太湖消防站(建设中)",
+                "address": "滨江大道与滨江路交叉口西南20米"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.015475,
+                    32.696857
+                ]
+            }
+        }
+    ]
+}
